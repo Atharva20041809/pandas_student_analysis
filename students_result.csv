@@ -1,0 +1,6 @@
+RollNo,Name,Maths,Science,English,Total,Average,Result
+1,Amit,78,85,80,243,81.0,True
+2,Neha,90,88,92,270,90.0,True
+3,Rahul,65,70,68,203,67.66666666666667,False
+4,Priya,95,92,94,281,93.66666666666667,True
+5,Karan,72,75,70,217,72.33333333333333,False
