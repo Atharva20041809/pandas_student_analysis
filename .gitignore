@@ -1,14 +1,5 @@
-# Virtual environments
-pandas_student_analysis/
-venv/
-.env/
-
-# Jupyter
-.ipynb_checkpoints/
-
-# macOS
-.DS_Store
-
-# Python
-__pycache__/
-*.pyc
+bin/
+include/
+share/
+lib/
+pyvenv.cfg
