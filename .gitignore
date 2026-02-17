@@ -1,5 +1,1 @@
-bin/
-include/
-share/
-lib/
-pyvenv.cfg
+.venv/
